@@ -64,15 +64,15 @@
         "show_price": true
       },
       {
-        "data_file_url": "",
+        "data_file_url": "https://www.dropbox.com/s/ghs21r0o0f0dgfs/item_sell_us.json?dl=1",
         "target": "vn",
-        "enable": false,
+        "enable": true,
         "show_price": true
       },
       {
-        "data_file_url": "",
+        "data_file_url": "https://www.dropbox.com/s/ghs21r0o0f0dgfs/item_sell_us.json?dl=1",
         "target": "us",
-        "enable": false,
+        "enable": true,
         "show_price": true
       }
     ]
