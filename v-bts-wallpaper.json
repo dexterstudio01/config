@@ -24,11 +24,11 @@
   },
 "album_config": { "album": [ "v"] },
   "update_config": {
-    "enable": false,
-    "versionCode": 1,
-    "versionName": "1.0",
-    "title": "",
-    "message": ""
+    "enable": true,
+    "versionCode": 5,
+    "versionName": "1.3",
+    "title": "Big updated",
+    "message": "Please update the new version to get many interesting features and more beautiful photos!"
   },
   "redirect_config": {
     "enable": false,
